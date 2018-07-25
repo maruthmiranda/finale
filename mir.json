@@ -61,7 +61,7 @@
     "priceCurrency": "km",
     "lat": 9.1732,
     "lng": 124.7299
-  }
+  },
   {
     "id": 213,
     "name": "Siargao Island",
@@ -70,7 +70,7 @@
     "priceCurrency": "km",
     "lat": 9.8482,
     "lng": 126.0458
-  }
+  },
   {
     "id": 213,
     "name": "Bohol",
@@ -79,7 +79,7 @@
     "priceCurrency": "km",
     "lat": 9.5731,
     "lng": 23.7629
-  }
+  },
   {
     "id": 213,
     "name": "Coron",
@@ -88,7 +88,7 @@
     "priceCurrency": "km",
     "lat": 12.0499,
     "lng": 120.1782
-  }
+  },
   {
     "id": 213,
     "name": "Tagaytay",
@@ -97,7 +97,7 @@
     "priceCurrency": "km",
     "lat": 14.0953,
     "lng":  120.9377
-  }
+  },
    {
     "id": 213,
     "name": "Vigan",
